@@ -1,0 +1,17 @@
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.csproj.CoreCompileInputs.cache
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.AssemblyInfoInputs.cache
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.AssemblyInfo.cs
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\DemoAzureDevops_v1.deps.json
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\DemoAzureDevops_v1.runtimeconfig.json
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\DemoAzureDevops_v1.runtimeconfig.dev.json
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\DemoAzureDevops_v1.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\bin\Debug\netcoreapp2.1\DemoAzureDevops_v1.pdb
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.dll
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.pdb
+C:\Users\sukumar\Source\repos\DemoAzureDevops_v1\DemoAzureDevops_v1\obj\Debug\netcoreapp2.1\DemoAzureDevops_v1.csprojAssemblyReference.cache
